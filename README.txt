@@ -8,7 +8,10 @@ v1.0.0 constitutes:
 Plans for future updates, as time/interest allows:
   - Updating the "trick" and "swap to Sissel from Missile" buttons to also display a cat.
   - Implementing changes in other languages.
-  - [Very high-level and unlikely to happen any time soon if ever] a button to toggle "Cat Mode" on/off.
+
+Very "Nice-to-Haves" that are high-level and unlikely to happen, but might be cool someday:
+  - Additional portrait expressions for the cat.
+  - A button to toggle "Cat Mode" on/off.
 
 The "ReferenceFiles" directory contains necessary files to re-create what I have done, labeled by "version" number. These correlate with the versions outlined in my process-so-far below.
 
@@ -198,6 +201,7 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
 
