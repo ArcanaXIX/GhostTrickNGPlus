@@ -1,8 +1,22 @@
-The "NG+ Mode" visual hack for Ghost Trick is not complete. At this time, there is no patch uploaded here. One will be uploaded when v1.0.0 is ready, which will consist of a state where every instance of Sissel's portrait sprite in English points to the cat.
+The "NG+ Mode" visual hack for Ghost Trick is release-ready. At this time, there is no patch uploaded here. One will be uploaded very shortly.
 
-Plans for future versions will be outlined once v1.0.0 has been released.
+v1.0.0 constitutes:
+  - Every single portrait sprite for Sissel, both ghost and human, has been replaced with the appropriate cat portrait.
+  - The image of Yomiel's corpse in the directory entry for Sissel has been replaced with an animation of the cat.
+  - CURRENTLY ONLY IMPLEMENTED IN ENGLISH.
 
-The "ReferenceFiles" directory contains necessary files to re-create what I have done so far, labeled by "version" number. These correlate with the versions outlined in my process-so-far below.
+Plans for future updates, as time/interest allows:
+  - Updating the "trick" and "swap to Sissel from Missile" buttons to also display a cat.
+  - Implementing changes in other languages.
+  - [Very high-level and unlikely to happen any time soon if ever] a button to toggle "Cat Mode" on/off.
+
+The "ReferenceFiles" directory contains necessary files to re-create what I have done, labeled by "version" number. These correlate with the versions outlined in my process-so-far below.
+
+VERSION 1.0.0
+
+The only difference between v1.0.0 and 0.2.3 is the hex at 0.3B830 has been modified to read "3C" rather than "31" so it points to the cat portrait instead of the ghost.
+
+With this, bare minimum requirements for v1.0.0 are achieved, and a patch will be published shortly.
 
 VERSION 0.2.3
 
@@ -184,6 +198,7 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
 
