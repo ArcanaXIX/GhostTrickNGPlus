@@ -17,7 +17,7 @@ The "ReferenceFiles" directory contains necessary files to re-create what I have
 
 VERSION 1.0.0
 
-The only difference between v1.0.0 and 0.2.3 is the hex at 0.3B830 has been modified to read "3C" rather than "31" so it points to the cat portrait instead of the ghost.
+The only difference between v1.0.0 and 0.2.3 is the hex at 0.3B83E has been modified to read "3C" rather than "31" so it points to the cat portrait instead of the ghost.
 
 With this, bare minimum requirements for v1.0.0 are achieved, and a patch will be published shortly.
 
@@ -201,6 +201,7 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
 
