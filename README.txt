@@ -1,6 +1,6 @@
-The "NG+ Mode" hack for Ghost Trick is not complete. At this time, there is no patch uploaded here. One will be uploaded when a v1.0 is ready, which will consist of a state where every instance of Sissel's portrait sprite in English points to the cat.
+The "NG+ Mode" visual hack for Ghost Trick is not complete. At this time, there is no patch uploaded here. One will be uploaded when v1.0.0 is ready, which will consist of a state where every instance of Sissel's portrait sprite in English points to the cat.
 
-Plans for future versions will be stated once v1.0.0 has been completed.
+Plans for future versions will be outlined once v1.0.0 has been released.
 
 The "ReferenceFiles" directory contains necessary files to re-create what I have done so far, labeled by "version" number. These correlate with the versions outlined in my process-so-far below.
 
@@ -184,5 +184,6 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
