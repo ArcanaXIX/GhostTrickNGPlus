@@ -1,3 +1,9 @@
+The "NG+ Mode" hack for Ghost Trick is not complete. At this time, there is no patch uploaded here. One will be uploaded when a v1.0 is ready, which will consist of a state where every instance of Sissel's portrait sprite in English points to the cat.
+
+Plans for future versions will be stated once v1.0 has been completed.
+
+The "ReferenceFiles" directory contains necessary files to re-create what I have done so far, labeled by "version" number. Steps taken so far are outlined below.
+
 VERSION 0.2.3
 
 This is just Ghost Trick 0.2.2, but with arm9.bin modified so that it will always pull up Ghost Sissel in the Rollback Menu. This is achieved by modifying the hex at 0x3B820 to read "606A," which prevents the branching code from doing anything.
@@ -178,3 +184,4 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
