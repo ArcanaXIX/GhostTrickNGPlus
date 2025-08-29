@@ -17,13 +17,13 @@ The "ReferenceFiles" directory contains necessary files to re-create what I have
 
 VERSION 1.0.0
 
-The only difference between v1.0.0 and 0.2.3 is the hex at 0.3B83E has been modified to read "3C" rather than "31" so it points to the cat portrait instead of the ghost.
+The only difference between v1.0.0 and 0.2.3 is the hex at 0.3B830 has been modified to read "3C" rather than "31" so it points to the cat portrait instead of the ghost.
 
 With this, bare minimum requirements for v1.0.0 are achieved, and a patch will be published shortly.
 
 VERSION 0.2.3
 
-This is just Ghost Trick 0.2.2, but with arm9.bin modified so that it will always pull up Ghost Sissel in the Rollback Menu. This is achieved by modifying the hex at 0x3B820 to read "606A," which prevents the branching code from doing anything.
+This is just Ghost Trick 0.2.2, but with arm9.bin modified so that it will always pull up Ghost Sissel in the Rollback Menu. This is achieved by modifying the hex at 0x3B82E to read "606A," which prevents the branching code from doing anything.
 
 It still does not display a cat, but there are no more known instances of Sissel using Yomiel's sprite.
 
@@ -201,6 +201,7 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
 
