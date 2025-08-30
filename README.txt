@@ -1,4 +1,4 @@
-The "NG+ Mode" visual hack for Ghost Trick is out. See the "release" directory!
+An initial version of the "NG+ Mode" visual hack for Ghost Trick is out! Get the patch here: https://github.com/ArcanaXIX/GhostTrickNGPlus/tree/main/Release
 
 v1.0.0 constitutes:
   - Every single portrait sprite for Sissel, both ghost and human, has been replaced with the appropriate cat portrait.
@@ -201,6 +201,7 @@ ADR 0
 REPLACEALL 19 FF 32 00 BY 19 FF 3D 00
 ADR 0
 REPLACEALL 1B FF 0D 00 BY 1B FF 08 00
+
 
 
 
