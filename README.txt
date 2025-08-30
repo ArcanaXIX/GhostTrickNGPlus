@@ -21,3 +21,6 @@ Very "Nice-to-Haves" that are high-level and unlikely to happen, but might be co
 
 All future releases will be pushed to the "Release" directory.
 Source code, scripts, and a changelog if you are interested in replicating or adding to my work can be found at the "ResourceFiles" directory.
+
+For more info on the process, see the project thread on RHDN: https://www.romhacking.net/forum/index.php?topic=32844
+
