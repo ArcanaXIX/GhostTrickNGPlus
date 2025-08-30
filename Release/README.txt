@@ -1,4 +1,4 @@
-# TL;DR - download GhostTrick_NGPlus_1.0.0.xdelta, apply patch to ROM, play game.
+TL;DR - download GhostTrick_NGPlus_1.0.0.xdelta, apply patch to ROM, play game.
 
 VERSION 1.0.0 released 08/29/2025
 Hack by Leo ArcanaXIX
