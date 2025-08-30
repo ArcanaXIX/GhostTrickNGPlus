@@ -8,8 +8,6 @@ WARNING: Spoilers for the original game follow.
 
 Do you want to play Ghost Trick as a cat the whole time? This patch is for you.
 
-I made this hack because after beating the game I wanted to do just that. It ended up taking about 4 years to reverse-engineer enough of the game's code to implement it, but it's now in a baseline fully-playable state!
-
 Implemented Changes:
   * Every portrait sprite for Sissel in gameplay and menus has been replaced with the cat.
   * ...For the ENGLISH language only. The portrait sprites are defined per-localization and I only modified the English files.
