@@ -1,8 +1,8 @@
-# TL;DR? Download GhostTrick_NGPlus_1.0.0.xdelta, apply patch to ROM, play game.
+TL;DR - download GhostTrick_NGPlus_1.0.0.xdelta, apply patch to ROM, play game.
 
 VERSION 1.0.0 released 08/29/2025
 Hack by Leo ArcanaXIX
-Patch created with Delta Patcher for use with Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It).nds ROM file.
+Patch for the Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It).nds ROM file
 
 WARNING: Spoilers for the original game follow.
 
