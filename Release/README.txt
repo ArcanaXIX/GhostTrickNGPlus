@@ -19,7 +19,8 @@ For more information on how this was accomplished and a roadmap of possible futu
 
 ~*~*~ INSTALL ~*~*~
 
-NOTE: This patch entirely replacees Sissel's portraits with the cat in all gameplay scenarios in English. I highly recommend keeping a backup copy of the original ROM before applying if you would like to play the game normally again in the future. It is not reversible.
+NOTE: This patch entirely replacees Sissel's portraits with the cat in all gameplay scenarios in English.
+I highly recommend keeping a backup copy of the original ROM before applying. It is not reversible.
 
 I recommend using Delta Patcher to apply this patch to a copy of the original game ROM.
 
