@@ -14,9 +14,7 @@ Implemented Changes:
   * ...For the ENGLISH language only. The portrait sprites are defined per-localization and I only modified the English files.
   * Yomiel's body has been replaced with an animation of the cat in the "People" directory.
 
-For more information on how this was accomplished and a roadmap of possible future additions:
-  * https://www.romhacking.net/forum/index.php?topic=32844
-  * https://github.com/ArcanaXIX/GhostTrickNGPlus
+For more information on how this was accomplished and a roadmap of possible future additions, see README in the root directory for this project.
 
 ~*~*~ INSTALL ~*~*~
 
